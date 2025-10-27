@@ -81,19 +81,12 @@ mvn clean javafx:run
 1. Atidaryti terminalą (Alt+F12)
 2. Įvykdyti: `mvn javafx:run`
 
-**Arba per IntelliJ Run Configuration:**
-1. Atidaryti `MainGUI.java`
-2. Dešiniu pelės mygtuku → `Run 'MainGUI.main()'`
-
 ### Testų paleidimas
 
 Per terminalą:
 ```bash
 mvn test
 ```
-
-Per IntelliJ IDEA:
-- Dešiniu pelės mygtuku ant `src/test/java` → `Run 'All Tests'`
 
 ## 🎮 Kaip žaisti
 
